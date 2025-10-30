@@ -1,6 +1,6 @@
 🧠 Comprehensive Experiment Description
 
-This experiment demonstrates a practical data lineage and quality-monitoring workflow for a research-grade machine learning pipeline. The process includes loading a dataset, validating its integrity, logging metadata lineage, applying quality constraints, performing cleaning steps, and exporting a refined version of the data. Through this workflow, the experiment highlights how transparency, traceability, and data governance form essential pillars in reliable and reproducible AI systems — especially when dealing with research datasets or regulated environments.
+This experiment demonstrates a practical data lineage and quality-monitoring workflow for a research-grade machine learning pipeline. The process includes loading a dataset, validating its integrity, logging metadata lineage, applying quality constraints, performing cleaning steps, and exporting a refined version of the data. Through this workflow, the experiment highlights how transparency, traceability, and data governance form essential pillars in reliable and reproducible AI systems especially when dealing with research datasets or regulated environments.
 
 ✏️ Objective
 
